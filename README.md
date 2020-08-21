@@ -74,7 +74,7 @@ A good rule of thumb is to copy a paragraph of a random article into your chosen
 
 A short note on line height: closely packed paragraphs of text can be really awful to read! The standard for paragraph text (as opposed to headings and other text) says that we should have a line height at least 1.5x as large as our font size.
 
-![Setting line height in Weebly]()
+![Setting line height in Weebly](resources/weebly-line-height.PNG)
 
 ### Zoom Levels
 
@@ -148,7 +148,7 @@ A good rule of thumb is if the image adds context to the page that isn't already
 
 On Weebly and other content management systems, alt text is usually built-in to image elements.
 
-![Weebly alt text input field]()
+![Weebly alt text input field](resources/weebly-alt.PNG)
 
 ![ACM logo](resources/acm-logo.png)
 
