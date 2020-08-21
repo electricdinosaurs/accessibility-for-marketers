@@ -194,13 +194,13 @@ Many people are prone to seizures and can be harmed by websites with too much an
 
 ## Content Reading Level 
 
-Although web developers often aren't responsible for writing site content, 1) they can be and 2) they are often asked for feedback on content.
+Even if your role doesn't explicitly involve writing site content, 1) you're going to do it eventually and 2) you'll often be asked for feedback on content. And, 3) it can't hurt to check everything for typos anyway.
 
 Unclear or complicated language affect English language learners, people with reading disabilities, and others. For general-audience websites, the standard is to use language at an 8th-grade reading level.  
 
 You'll also find that many words or phrases can be replaced with simpler ones. (Who wants to read 1000 words when you can get the same thing across in 500?) Towards this end, avoid the passive voice and avoid convoluted sentence structures.
 
-Finally, correct spelling and grammar aren't just for nitpickers: they allow for more efficient communication as well as greater professionalism.
+Finally, correct spelling and grammar aren't just for nitpickers: they allow for more efficient communication as well as making your brand appear more professional.
 
 ## Conclusion
 
@@ -218,9 +218,9 @@ As a review, here are the topics we've covered:
 
 A final note: accessibility shouldn't be an afterthought. You'll make it easier for yourself and your users if you think about it early on: when you're picking your fonts and color palette, when you're creating elements in HTML, and when you're structuring the flow of your website. 
 
-Want to put your new knowledge into practice? Start out by turning a critical eye on your [portfolio task](https://github.com/uclaacm/learning-lab-crash-course-su20/blob/master/task-1-portfolio/README.md) from earlier in this course, as well as any other websites you may have made. Use the tools below to help you make your website beautiful *and* accessible for all users! 
+Want to put your new knowledge into practice? Start out by turning a critical eye on your previous work, from social media posts (even personal posts!) to flyers to websites. Check out the tools below to help you make your content beautiful *and* accessible for all users! 
 
-Or, check out the [anti-accessibility example website](https://electricdinosaurs.github.io/accessibility-demo/) attached to this repository that breaks all of the rules we mentioned. Try forking the project or playing around in the browser inspector mode to see how you can make it less awful. 
+As an exercise, you can also audit this [anti-accessibility example website](https://electricdinosaurs.github.io/accessibility-demo/) which flagrantly breaks all of the guidelines we covered. If you were hired by "Music Box" to perform an overhaul of their site, how could you use your new knowledge to make it a better experience for all users?
 
 ## Accessibility Checkers
 
