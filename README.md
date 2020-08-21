@@ -4,7 +4,7 @@
 ## Overview
 Hi! Welcome to Karen's guide to web accessibility for marketers.
 
-I adapted this guide from the one I wrote on [accessibility for web developers](https://github.com/electricdinosaurs/accessibility-demo) because the latter is pretty hard to digest, especially for people who don't have a coding background. Still, knowledge of web accessibility is vital in order for any organization to produce quality content. So this document is a summary of the other one, with 90% less code and 100% of the content.
+I adapted this guide from the one I wrote on [accessibility for web developers](https://github.com/electricdinosaurs/accessibility-demo) to be more relevant to people without a coding background. Knowledge of web accessibility is still important for any organization to produce quality content. So this document is a summary of the other one, with 90% less code and 100% of the content.
 
 After this workshop, you should have a basic understanding of what kinds of needs we should be meeting as marketers on the web. You should be able to evaluate all sorts of digital materials using your familiarity with accessibility guidelines, with the help of convenient tools.
 
@@ -247,6 +247,7 @@ These articles will save you some googling on the topics we've covered today.
 Appearance
 * [Font size guidelines (Learn UI)](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)
 * [Basic color theory](http://www.colorsontheweb.com/Color-Theory/Color-Contrast)
+* [Forms (w3)](https://www.w3.org/WAI/tutorials/forms/instructions/)
 
 Supporting Screenreaders
 * [Tabindex (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
